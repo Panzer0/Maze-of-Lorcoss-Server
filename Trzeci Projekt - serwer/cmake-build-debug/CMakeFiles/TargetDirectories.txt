@@ -1,3 +1,0 @@
-/root/Documents/Trzeci Projekt - serwer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/root/Documents/Trzeci Projekt - serwer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/root/Documents/Trzeci Projekt - serwer/cmake-build-debug/CMakeFiles/Trzeci_Projekt___serwer.dir
